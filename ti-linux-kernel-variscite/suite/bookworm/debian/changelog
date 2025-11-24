@@ -1,3 +1,9 @@
+ti-linux-kernel (6.1.83-k3-var4+ffa98df23e306bf45b8bc41e538c9c00f32f7da6-1) UNRELEASED; urgency=medium
+
+  * Build based on commit ffa98df23e306bf45b8bc41e538c9c00f32f7da6
+
+ -- Rafael Gonzalez <ra.gonzalez@saci.es>  Mon, 24 Nov 2025 08:01:20 +0000
+
 ti-linux-kernel (6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1) UNRELEASED; urgency=medium
 
   * Build based on commit ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a
