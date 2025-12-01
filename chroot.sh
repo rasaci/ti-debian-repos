@@ -98,7 +98,7 @@ chroot_prepare
 if [ -n "${COMMAND}" ]; then
     sudo chroot ${ROOTFS_BASE}/ /bin/bash -c "${COMMAND}"
 else
-    sudo chroot ${ROOTFS_BASE}/
+    sudo chroot ${ROOTFS_BASE}/ /bin/bash
 fi
 
 sleep 0.5
